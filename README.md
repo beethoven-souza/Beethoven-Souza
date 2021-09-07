@@ -1,6 +1,5 @@
-Olá !! 👋 Eu sou o Beethoven Souza.
+<h1>Olá !! 👋 Eu sou o Beethoven Souza.</h1>
 
-##
 🚀 Atualmente estou em busca do meu primeiro estágio como desenvolvedor Font-End.<br><br>
 📚 Cursando Analise e Desenvolvimento de Sistemas. <br><br>
   <h2>Estudando as Tecnologias: </h2>
