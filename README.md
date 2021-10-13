@@ -1,7 +1,7 @@
 <h1>Olá !! 👋 Eu sou o Beethoven Souza.</h1>
 
-🚀 Atualmente estou em busca do meu primeiro estágio como desenvolvedor Font-End.<br><br>
-📚 Cursando Analise e Desenvolvimento de Sistemas. <br><br>
+🚀 Programador.<br><br>
+📚 Analise e Desenvolvimento de Sistemas. <br><br>
   <h2>Estudando as Tecnologias: </h2>
   <a href="https://github.com/beethoven-souza" target="_blank">
   <img align="center" alt="" height="23" width="23" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>&nbsp;JavaScript.<br>
