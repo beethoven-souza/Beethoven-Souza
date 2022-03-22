@@ -3,14 +3,15 @@
 🚀 Programador.<br><br>
 📚 Analise e Desenvolvimento de Sistemas. <br><br>
 
-<div align="center">
+<div>
   <a href="https://github.com/beethoven-souza">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=beethoven-souza&show_icons=true&theme=dracula"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beethoven-souzab&layout=compact&langs_count=15&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beethoven-souza&layout=compact&langs_count=15&theme=dracula"/>
 </div>
+  
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img align="center" height="30" width="40"  src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
