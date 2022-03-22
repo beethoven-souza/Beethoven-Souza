@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/beethoven-souza">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=beethoven-souza&show_icons=true&theme=dracula"/>
-  <img height="150px" width="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beethoven-souza&layout=compact&langs_count=15&theme=dracula"/>
+  <img height="300px" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beethoven-souza&layout=compact&langs_count=15&theme=dracula"/>
 </div>
   
   ##
