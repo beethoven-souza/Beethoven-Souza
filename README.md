@@ -10,7 +10,7 @@
 </div>
   
   ##
-  <hr>
+  
  <div style="display: inline_block" align="center"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
@@ -24,7 +24,7 @@
   </div>
   
   ##
-  <hr>
+  
   
 <h2>Contatos: </h2>
 <a href="https://www.linkedin.com/in/beethoven-souza-455839206/" target="_blank">
